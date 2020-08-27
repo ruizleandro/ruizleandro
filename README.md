@@ -17,24 +17,32 @@ Here are some ideas to get you started:
 
 Here are some insights about me:
 
-### 👨‍💻 I'm working on...
+#### 👨‍💻 I'm working on...
 
 * A project about Natural Language Processing for my Data Science portfolio.
 * My blog full of articles about data science (both on English and Spanish).
 
-### 🌱 Right now I'm learning about...
+#### 🌱 Right now I'm learning about...
 
 * Practical statistics and probability for data science.
 * Cloud tools (AWS Lambda, SageMaker and EC2).
 * SQL (I'm re-learning it)
 
-### 📫 Where I am?
+#### 🔭 I have some knowledge on...
+
+* Data Analysis.
+* Supervised and Unsupervised Learning.
+* Apache Spark (PySpark).
+* TensorFlow and Keras.
+* SQL.
+
+#### 📫 Where I am?
 
 * [LinkedIn](https://www.linkedin.com/in/ruiz-leandro/)
 * [My blog](https://dev.to/ruizleandro)
 * [Medium](https://medium.com/@ruizleandro)
 
-### ⚡ Did you know...
+#### ⚡ Did you know...
 
 * I am from Argentina.
 * I'm 23 years old.

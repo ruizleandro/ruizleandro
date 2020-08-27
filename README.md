@@ -46,4 +46,4 @@ Here are some insights about me:
 
 * I am from Argentina.
 * I'm 23 years old.
-* I'm a great footballer and FIFA player.
+* I'm a great (amateur) footballer and FIFA player.

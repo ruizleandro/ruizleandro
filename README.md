@@ -20,7 +20,7 @@ Here are some insights about me:
 #### 👨‍💻 I'm working on...
 
 * A project about Natural Language Processing for my Data Science portfolio.
-* My blog full of articles about data science (both on English and Spanish).
+* My blog full of articles about Data Science (both on English and Spanish).
 
 #### 🌱 Right now I'm learning about...
 
@@ -30,7 +30,7 @@ Here are some insights about me:
 
 #### 🔭 I have some knowledge on...
 
-* Data Analysis.
+* Data Analysis and Data Cleaning.
 * Supervised and Unsupervised Learning.
 * Apache Spark (PySpark).
 * TensorFlow and Keras.

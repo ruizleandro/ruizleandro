@@ -26,7 +26,6 @@ Here are some insights about me:
 
 * Practical statistics and probability for data science.
 * Cloud tools (AWS Lambda, SageMaker and EC2).
-* SQL (I'm re-learning it)
 
 #### 🔭 I have some knowledge on...
 

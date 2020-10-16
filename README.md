@@ -24,7 +24,7 @@ Here are some insights about me:
 
 #### 🌱 Right now I'm learning about...
 
-* Practical statistics and probability for data science.
+* Statistics and probability for data science.
 * Cloud tools (AWS Lambda, SageMaker and EC2).
 
 #### 🔭 I have some knowledge on...

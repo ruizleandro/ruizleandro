@@ -34,6 +34,7 @@ Here are some insights about me:
 * Apache Spark (PySpark).
 * TensorFlow and Keras.
 * SQL.
+* R.
 
 #### 📫 Where I am?
 

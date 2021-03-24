@@ -24,8 +24,8 @@ Here are some insights about me:
 
 #### 🌱 Right now I'm learning about...
 
-* Data Analysis and Business Intelligence
-* Microsoft Power BI
+* Data Analysis and Business Intelligence.
+* Microsoft Power BI.
 
 #### 🔭 I have some knowledge on...
 
@@ -38,9 +38,9 @@ Here are some insights about me:
 
 #### 📫 Where I am?
 
-* [LinkedIn](https://www.linkedin.com/in/ruiz-leandro/)
-* [My blog](https://dev.to/ruizleandro)
-* [Medium](https://medium.com/@ruizleandro)
+* [LinkedIn](https://www.linkedin.com/in/ruiz-leandro/).
+* [My blog](https://dev.to/ruizleandro).
+* [Medium](https://medium.com/@ruizleandro).
 
 #### ⚡ Did you know...
 

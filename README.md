@@ -24,8 +24,8 @@ Here are some insights about me:
 
 #### 🌱 Right now I'm learning about...
 
-* Statistics and probability for data science.
-* Cloud tools (AWS Lambda, SageMaker and EC2).
+* Data Analysis and Business Intelligence
+* Microsoft Power BI
 
 #### 🔭 I have some knowledge on...
 

@@ -19,16 +19,17 @@ Here are some insights about me:
 
 #### 👨‍💻 I'm working on...
 
-* A project about Natural Language Processing for my Data Science portfolio.
-* My blog full of articles about Data Science (both on English and Spanish).
+* My career, I´m a data analyst @ Practia Global.
+* My blog where I write articles about Data Science and Data Analysis (both on English and Spanish).
 
 #### 🌱 Right now I'm learning about...
 
-* Data Analysis and Business Intelligence.
-* Microsoft Power BI.
+* Python.
+* Machine learning.
 
 #### 🔭 I have some knowledge on...
 
+* Power BI and Power Automate.
 * Data Analysis and Data Cleaning.
 * Supervised and Unsupervised Learning.
 * Apache Spark (PySpark).
@@ -40,10 +41,8 @@ Here are some insights about me:
 
 * [LinkedIn](https://www.linkedin.com/in/ruiz-leandro/).
 * [My blog](https://dev.to/ruizleandro).
-* [Medium](https://medium.com/@ruizleandro).
 
 #### ⚡ Did you know...
 
 * I am from Argentina.
-* I'm 24 years old.
-* I'm a great (amateur) footballer and FIFA player.
+* I'm 26 years old.
